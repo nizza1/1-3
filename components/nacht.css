@@ -1,0 +1,13 @@
+.nachtM {
+    background-color: rgb(20, 0, 88);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    transition-duration: 1s;
+}
+
+.nachtM h1 {
+    font-weight: 100;
+}
